@@ -1,0 +1,12 @@
+# Requirements for Assignment 16
+# GridWorld Value Iteration + DQN Self-Driving Car
+
+# Core numerical computing
+numpy>=1.21.0
+
+# Deep learning framework for DQN
+torch>=1.9.0
+
+# GUI framework for visualization
+PyQt6>=6.0.0
+
